@@ -1,8 +1,7 @@
-package br.com.alura.tdd.service;
+package br.com.alura.tdd.modelo;
 
 import java.math.BigDecimal;
 
-import br.com.alura.tdd.modelo.Funcionario;
 import br.com.alura.tdd.modelo.enums.Desempenho;
 
 public class Reajuste {
